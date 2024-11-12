@@ -1,0 +1,5 @@
+Eu, Roger Jorge F. dos Passos, estudante da faculdade IESB, venho por meio deste compartilhar a realização de um projeto que desenvolvi com dedicação e empenho. O código que concebi reflete não apenas o aprendizado adquirido durante minha jornada acadêmica, mas também o meu compromisso com a excelência e inovação no campo da tecnologia.
+
+Acredito que o conhecimento, quando aplicado com responsabilidade e criatividade, tem o poder de transformar a realidade e contribuir significativamente para o desenvolvimento de soluções eficazes. Este projeto é, portanto, um marco na minha trajetória, uma síntese dos ensinamentos teóricos e práticos adquiridos ao longo do curso, e uma demonstração do meu potencial para futuros desafios no mundo da programação e da tecnologia.
+
+Estou confiante de que a experiência adquirida até o momento me proporciona uma base sólida para seguir em frente e continuar a contribuir para o avanço do setor, buscando sempre o aprimoramento contínuo e o impacto positivo em projetos futuros.
